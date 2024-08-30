@@ -4,7 +4,7 @@ import { Container } from "./styles";
 const Header = () => {
   return (
     <Container>
-      <Text>Texto</Text>
+      <Text style={{ color: "#fff", marginTop: 30, fontSize: 25 }}>Aula 5</Text>
     </Container>
   );
 };

@@ -3,7 +3,7 @@ import { SafeAreaView } from "react-native-safe-area-context";
 
 export default function App() {
   return (
-    <SafeAreaView>
+    <SafeAreaView style={{ flex: 1 }}>
       <Feed />
     </SafeAreaView>
   );
